@@ -7,14 +7,14 @@ Driven by curiosity, I’m continuously learning and expanding my knowledge in t
 ## 🛠️ My Tech Stack 
 
 ### 🖥️ Frontend  
-- 🎨 HTML, CSS, JavaScript   
+- 🎨 HTML, CSS, JavaScript.   
 
 ### ⛃ Data & BI  
-- 🗄️ Databases: SQL Server, MySQL, SQLite   
-- 📈 BI Tools: Power BI, Tableau, Looker Studio   
+- 🗄️ Databases: SQL Server, MySQL, SQLite.
+- 📈 BI Tools: Power BI, Tableau, SAP BO.   
 
 ### 🛠️ Tools  
-- 🐙 GitHub   
-- 💻 VS Code   
+- 🐙 GitHub.   
+- 💻 VS Code.   
 
 ---
