@@ -1,7 +1,7 @@
 # Hi, I'm Alon 👋  
 
-I’m an **Analyst at SanDisk 🔍** and currently pursuing a **B.A. in Business Administration & Information Systems 🎓**.  
-Driven by curiosity, I’m continuously learning and expanding my knowledge in the tech world 💡.  
+I’m currently pursuing a **B.A. in Business Administration & Information Systems 🎓**.  
+Driven by curiosity, I’m continuously learning and expanding my knowledge in the tech world, specifically toward the worlds of cybersecurity💡.  
 
 ---
 ## 🛠️ My Tech Stack 
