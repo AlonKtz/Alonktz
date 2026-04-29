@@ -10,11 +10,11 @@ Driven by curiosity, I’m continuously learning and expanding my knowledge in t
 - 🎨 HTML, CSS, JavaScript.   
 
 ### ⛃ Data & BI  
-- 🗄️ Databases: SQL Server, MySQL, SQLite.
+- 🗄️ Databases: SQL Server, MySQL, SQLite, Python.
 - 📈 BI Tools: Power BI, Tableau, SAP BO.   
 
 ### 🛠️ Tools  
 - 🐙 GitHub.   
-- 💻 VS Code.   
+- 💻 VS Code.  
 
 ---
