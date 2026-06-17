@@ -1,18 +1,16 @@
 # Hi, I'm Alon 👋  
 
 I’m currently pursuing a **B.A. in Business Administration & Information Systems 🎓**.  
-Driven by curiosity, I’m continuously learning and expanding my knowledge in the tech world, specifically toward the worlds of Data & information security💡.  
+Driven by curiosity, I’m continuously learning and expanding my knowledge in the tech world, specifically toward the worlds of Data & information systems.💡
+I am also an amatuer AI builder, using mainly claude.  
 
 ---
 ## 🛠️ My Tech Stack 
-
 ### 🖥️ Frontend  
 - 🎨 HTML, CSS, JavaScript.   
-
 ### ⛃ Data & BI  
 - 🗄️ Databases: SQL Server, MySQL, SQLite, Python.
 - 📈 BI Tools: Power BI, Tableau, SAP BO.   
-
 ### 🛠️ Tools  
 - 🐙 GitHub.   
 - 💻 VS Code.  
