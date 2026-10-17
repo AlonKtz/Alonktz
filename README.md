@@ -1,8 +1,7 @@
 # Hi, I'm Alon 👋  
 
-I’m currently pursuing a **B.A. in Information Systems, Specializing in Product Management and AI Implementation 🎓**.  
-Driven by curiosity, I’m continuously learning and expanding my knowledge in the tech world, specifically toward the worlds of Data & information systems.💡
-I am also an amatuer AI builder, using mainly claude.  
+3rd-year B.A. student in Information Systems & Business Administration at Ono Academic College, specializing in Product Management and AI Implementation. I bring an analytical mindset, critical thinking, and hands-on data analysis skills and experience.
+I’m highly driven by curiosity and keep expanding my knowledge in the worlds of data and development. Outside the classroom, I’m an amateur AI builder, working mainly with Claude and Codex.
 
 ---
 ## 🛠️ My Tech Stack 
