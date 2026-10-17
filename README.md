@@ -8,10 +8,10 @@ I’m highly driven by curiosity and keep expanding my knowledge in the worlds o
 ### 🖥️ Frontend  
 - 🎨 HTML, CSS, JavaScript.   
 ### ⛃ Data & BI  
-- 🗄️ Databases: SQL Server, MySQL, SQLite, Python.
+- 🗄️ Databases: SQL Server, MySQL, SQLite, Python, NoSQL (MongoDB).
 - 📈 BI Tools: Power BI, Tableau, SAP BO.   
-### 🛠️ Tools  
-- 🐙 GitHub.   
-- 💻 VS Code.  
+### 🛠️ Tools & AI  
+- 🐙 Git & GitHub.   
+- 💡 Claude, Codex.
 
 ---
