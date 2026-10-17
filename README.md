@@ -1,6 +1,6 @@
 # Hi, I'm Alon 👋  
 
-I’m currently pursuing a **B.A. in Business Administration & Information Systems 🎓**.  
+I’m currently pursuing a **B.A. in Information Systems, Specializing in Product Management and AI Implementation 🎓**.  
 Driven by curiosity, I’m continuously learning and expanding my knowledge in the tech world, specifically toward the worlds of Data & information systems.💡
 I am also an amatuer AI builder, using mainly claude.  
 
